@@ -22,7 +22,7 @@ Aplicativo Portal Filmes feito em Flutter
 
  <div>
 
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=alexsgross&color=green" alt="alexsgross" /> <br>
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=moraisacr&color=green" alt="moraisacr" /> <br>
 
  </div>    
           
